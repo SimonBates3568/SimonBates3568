@@ -12,6 +12,7 @@ I'm a passionate Front-End web developer from Alphen aan den Rijn, Netherlands. 
 - **LinkedIn:** https://www.linkedin.com/in/simon-bates-9592432a0/
 - **Instagram:** https://www.instagram.com/cubicolour_nl/
 - **Email:** simonbates52@gmail.com
+- **EMAIL:**cubicolournl@gmail.com
 
 
 
