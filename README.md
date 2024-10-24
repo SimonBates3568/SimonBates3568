@@ -4,11 +4,12 @@ I'm a passionate Front-End web developer from Alphen aan den Rijn, Netherlands. 
 
 ## 🔧 Technologies & Tools
 
-- **Programming Languages:** HTML5,CSS3,JAVASCRIPT
-- **Frameworks & Libraries:** BOOTSTRAP,REACT,
+- ** Programming Languages:** HTML5,CSS3,Javascript
+- ** Frameworks & Libraries:** Bootstrap ,React
+- ** serverside runtime enviroment: Node.js
 - ** XAMPP software stack: Apache HTTP Server, MySQL, PHP
 
-  
+
 ## 📫 Let's Connect!
 
 - **LinkedIn:** https://www.linkedin.com/in/simon-bates-9592432a0/
