@@ -1,6 +1,6 @@
 # Hello, I'm Simon Bates! 👋
 
-I'm a passionate Front-End web developer from Alphen aan den Rijn, Netherlands. Welcome to my GitHub profile!
+I'm a passionate Full-Stack web developer from Alphen aan den Rijn, Netherlands. Welcome to my GitHub profile!
 
 ## 🔧 Technologies & Tools
 
