@@ -9,6 +9,9 @@ I'm a passionate Full-Stack web developer from Alphen aan den Rijn, Netherlands.
 - ** serverside runtime enviroment: Node.js
 - ** XAMPP software stack: Apache HTTP Server, MySQL, PHP
 - ** Version Control: Git, Github
+- ** Databases: MySQL, Mongodb, SQLite
+- ** Package Managers: NPM
+- ** AI-assist development
 
 
 ## 📫 Let's Connect!
