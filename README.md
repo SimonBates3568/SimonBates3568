@@ -12,8 +12,8 @@ I'm a passionate Full-Stack web developer from Alphen aan den Rijn, Netherlands.
 - ** Databases: MySQL, Mongodb, SQLite
 - ** Package Managers: NPM
 - ** AI-assist development
-
-
+- ** open-source database toolkit: Prisma
+-  
 ## 📫 Let's Connect!
 
 - **LinkedIn:** https://www.linkedin.com/in/simon-bates-9592432a0/
