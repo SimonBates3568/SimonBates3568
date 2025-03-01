@@ -5,7 +5,7 @@ I'm a passionate Full-Stack web developer from Alphen aan den Rijn, Netherlands.
 ## 🔧 Technologies & Tools
 
 - ** Programming Languages: HTML5,CSS3,Javascript
-- ** Frameworks & Libraries: Bootstrap ,React, Express.js
+- ** Frameworks & Libraries: Bootstrap,React,Express.js,Ckakra-UI
 - ** serverside runtime enviroment: Node.js
 - ** XAMPP software stack: Apache HTTP Server, MySQL, PHP
 - ** Version Control: Git, Github
