@@ -10,6 +10,7 @@ I'm a passionate Full-Stack web developer from Leiden, Netherlands. Welcome to m
 - ** XAMPP software stack: Apache HTTP Server, MySQL, PHP
 - ** Version Control: Git, Github
 - ** Databases: MySQL, Mongodb, SQLite
+- ** serverless database: planetscale
 - ** ORM:Prisma
 - ** Express middleware: winston, morgan, cors, helmet, cookie-parser
 - ** Error tracking: Sentry
@@ -18,7 +19,6 @@ I'm a passionate Full-Stack web developer from Leiden, Netherlands. Welcome to m
 - ** Package Managers: NPM
 - ** AI-assist development
 
--  
 ## 📫 Let's Connect!
 
 - **LinkedIn:** https://www.linkedin.com/in/simon-bates-9592432a0/
