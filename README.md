@@ -10,9 +10,9 @@ I'm a passionate Full-Stack web developer from Alphen aan den Rijn, Netherlands.
 - ** XAMPP software stack: Apache HTTP Server, MySQL, PHP
 - ** Version Control: Git, Github
 - ** Databases: MySQL, Mongodb, SQLite
-- ** Package Managers: NPM
+- ** ORM:Prisma- ** Package Managers: NPM
 - ** AI-assist development
-- ** open-source database toolkit: Prisma
+
 -  
 ## 📫 Let's Connect!
 
