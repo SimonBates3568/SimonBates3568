@@ -10,7 +10,11 @@ I'm a passionate Full-Stack web developer from Leiden, Netherlands. Welcome to m
 - ** XAMPP software stack: Apache HTTP Server, MySQL, PHP
 - ** Version Control: Git, Github
 - ** Databases: MySQL, Mongodb, SQLite
-- ** ORM:Prisma-
+- ** ORM:Prisma
+- ** Express middleware: winston, morgan, cors, helmet, cookie-parser
+- ** Error tracking: Sentry
+- ** Authentication libraries: jsonwebtoken, AuthO
+- ** Testing: jest, vitest
 - ** Package Managers: NPM
 - ** AI-assist development
 
