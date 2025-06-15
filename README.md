@@ -15,7 +15,7 @@ I'm a passionate Full-Stack web developer from Leiden, Netherlands. Welcome to m
 - ** Express middleware: winston, morgan, cors, helmet, cookie-parser
 - ** Error tracking: Sentry
 - ** Authentication libraries: jsonwebtoken, AuthO
-- ** Testing: jest, vitest
+- ** Testing: jest, vitest, newman
 - ** Package Managers: NPM
 - ** AI-assist development
 
